@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Caveat:wght@400;500&family=Dancing+Script:wght@600;700&family=Permanent+Marker&display=swap');
+.header{
+    background-color:rgb(246, 128, 147);
+    color: #fff;
+    height: 90px;
+}
+h1{
+    font-family: 'Caveat', cursive;
+}
+
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li{
+    float: left;
+    list-style: none;
+    padding: 33px 20px;
+}
+
+.li{
+    list-style: none;
+}
+
+.main{
+    padding: 150px;
+}
+
+.copy-container h1{
+    font-size: 50px;
+}
+
+.copy-container span{
+    color: #374e9b;
+}
+
+.contents{
+    height: 500px;
+    margin-top: 100px;
+}
+.section-tittle{
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.contents-item{
+    float: left;
+    margin-right: 40px;
+}
+
+.contents-item p{
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+
+
+
+.contact-form{
+    padding-top: 100px;
+}
+
+.contact-form input{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-form textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-submit{
+    background: #edadc5;
+    color: #e02f41;
+}
+
+.footer{
+    background-color: #f0648a;
+    color: #fff;
+    height: 150px;
+}
+
+.footer-logo{
+    font-size: 36px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
